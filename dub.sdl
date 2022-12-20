@@ -1,0 +1,5 @@
+name "classutil"
+description "Class/interface type checking utility for D"
+authors "laszl"
+copyright "Copyright © 2022, laszl"
+license "BSL"
