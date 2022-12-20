@@ -11,7 +11,7 @@ public void someFunction(Object o) {
         InterfaceOne foo = cast(InterfaceOne)o;
         [...]
     } else if (isInterface!InterfaceTwo(o)) {
-        InterfaceTwo foo = cast(InterfaceOne)o;
+        InterfaceTwo foo = cast(InterfaceTwo)o;
         [...]
     }
 }
